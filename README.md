@@ -1,5 +1,6 @@
 # 
 Explanation
+
 The main goal of this project was to build a Semester Registration System for Sherubtse College by applying the MVC structure and using Node.js, Express.js, PostgreSQL, and EJS. This stage concentrated on creating a safe way for users to log in and out, register, and verify their email addresses.
 
 For the first phase, we set up and configured important npm packages, including express, pg, dotenv, bcryptjs, jsonwebtoken, and nodemailer. To achieve complete separation, a structuring based on the Model-View-Controller (MVC) approach was applied to the folder layout.
